@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg7" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#5C3317;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6D4C41;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg7)"/>
+  <rect x="140" y="80" width="50" height="70" fill="#D2691E" opacity="0.8"/>
+  <rect x="150" y="80" width="50" height="70" fill="#D2691E" opacity="0.6"/>
+  <rect x="160" y="80" width="50" height="70" fill="#D2691E" opacity="0.4"/>
+  <circle cx="185" cy="90" r="15" fill="#F5E6D3"/>
+  <text x="200" y="260" font-family="Georgia, serif" font-size="24" fill="#F5E6D3" text-anchor="middle">Sprite Animation</text>
+</svg>

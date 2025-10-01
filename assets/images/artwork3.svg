@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg3" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#5C3317;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8B4513;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#bg3)"/>
+  <polygon points="50,200 150,120 250,140 350,180 350,250 50,250" fill="#3E2723" opacity="0.6"/>
+  <rect x="80" y="140" width="60" height="80" fill="#D2691E" opacity="0.8"/>
+  <rect x="260" y="160" width="60" height="80" fill="#D2691E" opacity="0.8"/>
+  <circle cx="200" cy="80" r="40" fill="#F5DEB3" opacity="0.5"/>
+  <text x="200" y="280" font-family="Georgia, serif" font-size="24" fill="#F5E6D3" text-anchor="middle">Environment Art</text>
+</svg>
