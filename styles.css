@@ -6,13 +6,13 @@
 }
 
 :root {
-    --primary-brown: #8B4513;
-    --dark-brown: #5C3317;
-    --light-brown: #D2691E;
-    --cream: #F5E6D3;
-    --vintage-beige: #E8DCC4;
-    --text-dark: #3E2723;
-    --text-light: #6D4C41;
+    --primary-brown: #745D4E;
+    --dark-brown: #493629;
+    --light-brown: #947A66;
+    --cream: #C4AC95;
+    --vintage-beige: #AB9585;
+    --text-dark: #493629;
+    --text-light: #745D4E;
 }
 
 body {
@@ -90,7 +90,7 @@ header {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(92, 51, 23, 0.7), rgba(139, 69, 19, 0.7)),
+    background: linear-gradient(rgba(73, 54, 41, 0.7), rgba(116, 93, 78, 0.7)),
                 url('assets/images/hero-bg.svg') center/cover;
     min-height: 70vh;
     display: flex;
@@ -207,7 +207,7 @@ header {
     position: relative;
     overflow: hidden;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(92, 51, 23, 0.3);
+    box-shadow: 0 4px 8px rgba(73, 54, 41, 0.3);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     background-color: var(--vintage-beige);
     border: 3px solid var(--primary-brown);
@@ -215,7 +215,7 @@ header {
 
 .gallery-item:hover {
     transform: translateY(-5px);
-    box-shadow: 0 8px 16px rgba(92, 51, 23, 0.5);
+    box-shadow: 0 8px 16px rgba(73, 54, 41, 0.5);
 }
 
 .gallery-item img {
